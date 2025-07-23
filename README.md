@@ -13,7 +13,7 @@ When you run the application, a window will appear with a button to select an im
 
 ## Screenshot
 
-![Cartoonifier Demo](screenshot/Screenshot 2025-07-24 030738.png)
+![Cartoonifier Demo](screenshot/ss.png)
 
 ## Requirements
 - Python 3.x
