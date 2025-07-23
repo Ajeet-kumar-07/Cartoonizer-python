@@ -11,6 +11,10 @@ This project is a simple Python application that transforms your images into car
 ## Demo
 When you run the application, a window will appear with a button to select an image. After selecting an image, the cartoonification process will be displayed, and you can save the final result.
 
+## Screenshot
+
+![Cartoonifier Demo](screenshot/Screenshot 2025-07-24 030738.png)
+
 ## Requirements
 - Python 3.x
 - OpenCV (`cv2`)
